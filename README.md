@@ -23,3 +23,5 @@ Out of 2224 passengers and crew on board, only 722 people survived. Despite luck
   - tfdf.keras.RandomForestModel
 ## 📚 Data:
 The data is published on [Kaggle](https://www.kaggle.com/competitions/titanic/data).
+## Posted:
+* Kaggle: [Store Sales Time Series Forecasting - Hybrid Model](https://www.kaggle.com/code/wangtugua/store-sales-time-series-forecasting-hybrid-model)
